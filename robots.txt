@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohcohkuoph.riveyhill.com/sitemap.xml
